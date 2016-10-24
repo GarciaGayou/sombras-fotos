@@ -1,0 +1,22 @@
+{
+  "name": "mediopunto-fotos",
+  "homepage": "https://github.com/GarciaGayou/mediopunto-fotos",
+  "authors": [
+    "Mauricio Navarro Miranda <mauricio@navarromiranda.mx>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "captionjs": "https://github.com/ericmagnuson/captionjs.git#v0.9.8",
+    "jquery": "^3.1.1"
+  }
+}
