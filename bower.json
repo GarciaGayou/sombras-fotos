@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "captionjs": "https://github.com/ericmagnuson/captionjs.git#v0.9.8",
-    "jquery": "^3.1.1"
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
   }
 }
